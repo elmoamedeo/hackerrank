@@ -7,6 +7,7 @@ HackerRank is a place where programmers from all over the world come together to
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)
 - [Simple Array Sum](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SimpleArraySum.java)
+- [Compare The Triplets](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/CompareTheTriplets.java)
 
 ### Medium
 

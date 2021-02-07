@@ -1,10 +1,8 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+package Easy;
 
-public class Solution {
+import java.util.Scanner;
+
+public class SolveMeFirst {
 
     static int solveMeFirst(int a, int b) {
         return a + b;

@@ -10,6 +10,7 @@ HackerRank is a place where programmers from all over the world come together to
 - [Compare The Triplets](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/CompareTheTriplets.java)
 - [A Very Big Sum](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/AVeryBigSum.java)
 - [Diagonal Difference](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/DiagonalDifference.java)
+- [Staircase](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/Staircase.java)
 
 ### Medium
 

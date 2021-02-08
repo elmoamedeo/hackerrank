@@ -6,7 +6,7 @@ HackerRank is a place where programmers from all over the world come together to
 ## Problems Solved
 ### Java
 - [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/Java/IfElse.java)
-- [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StindAndStdoutI.java)
+- [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StdinAndStdoutI.java)
 
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

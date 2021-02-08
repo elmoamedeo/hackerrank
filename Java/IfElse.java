@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class JavaIfElse {
+public class IfElse {
 
     private static void weirdNumber(int n) {
         if (n % 2 == 0)

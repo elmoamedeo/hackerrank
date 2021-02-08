@@ -8,6 +8,7 @@ HackerRank is a place where programmers from all over the world come together to
 - [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/Java/IfElse.java)
 - [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StdinAndStdoutI.java)
 - [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StdinAndStdoutII.java)
+- [LoopsI](https://github.com/elmoamedeo/hackerrank/blob/main/Java/LoopsI.java)
 
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

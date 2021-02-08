@@ -9,6 +9,7 @@ HackerRank is a place where programmers from all over the world come together to
 - [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StdinAndStdoutI.java)
 - [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StdinAndStdoutII.java)
 - [Loops I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/LoopsI.java)
+- [Loops II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/LoopsII.java)
 
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

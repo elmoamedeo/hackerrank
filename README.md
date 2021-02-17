@@ -3,7 +3,11 @@
 ## What is Hackerrank
 HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning & artificial intelligence. As well as to practice different programming paradigms like functional programming.
 
+### My profile: https://www.hackerrank.com/elmoamedeo
+
 ## Problems Solved
+#### (The order of the exercises between the categories are by no means difficulty-wise, and yes by date of conclusion) 
+
 ### Java
 - [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/Java/IfElse.java)
 - [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StdinAndStdoutI.java)

@@ -11,6 +11,7 @@ HackerRank is a place where programmers from all over the world come together to
 - [Loops I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/LoopsI.java)
 - [Loops II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/LoopsII.java)
 - [Output Formatting](https://github.com/elmoamedeo/hackerrank/blob/main/Java/OutputFormatting.java)
+- [Datatypes](https://github.com/elmoamedeo/hackerrank/blob/main/Java/Datatypes.java)
 
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

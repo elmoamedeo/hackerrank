@@ -25,7 +25,6 @@ class Result {
         // same logic as aplied with month
         return dayOfWeek[calendar.get(Calendar.DAY_OF_WEEK) - 1];
     }
-
 }
 
 public class DateAndTime {
@@ -51,5 +50,4 @@ public class DateAndTime {
         bufferedReader.close();
         bufferedWriter.close();
     }
-
 }

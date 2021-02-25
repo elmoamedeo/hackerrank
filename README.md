@@ -18,6 +18,7 @@ HackerRank is a place where programmers from all over the world come together to
 - [Datatypes](https://github.com/elmoamedeo/hackerrank/blob/main/Java/Datatypes.java)
 - [Int to String](https://github.com/elmoamedeo/hackerrank/blob/main/Java/IntToString.java)
 - [Date and Time](https://github.com/elmoamedeo/hackerrank/blob/main/Java/DateAndTime.java)
+- [Welcome to Java](https://github.com/elmoamedeo/hackerrank/blob/main/Java/WelcomeToJava.java)
 
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

@@ -9,19 +9,21 @@ HackerRank is a place where programmers from all over the world come together to
 #### (The order of the exercises between the categories are by no means difficulty-wise, and yes by date of conclusion) 
 
 ### Java
-- [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/Java/IfElse.java)
-- [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StdinAndStdoutI.java)
-- [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StdinAndStdoutII.java)
-- [Loops I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/LoopsI.java)
-- [Loops II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/LoopsII.java)
-- [Output Formatting](https://github.com/elmoamedeo/hackerrank/blob/main/Java/OutputFormatting.java)
-- [Datatypes](https://github.com/elmoamedeo/hackerrank/blob/main/Java/Datatypes.java)
-- [Int to String](https://github.com/elmoamedeo/hackerrank/blob/main/Java/IntToString.java)
-- [Date and Time](https://github.com/elmoamedeo/hackerrank/blob/main/Java/DateAndTime.java)
-- [Welcome to Java](https://github.com/elmoamedeo/hackerrank/blob/main/Java/WelcomeToJava.java)
-- [End of File](https://github.com/elmoamedeo/hackerrank/blob/main/Java/EndOfFile.java)
-- [Static Initializer Block](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StaticInitializerBlock.java)
-- [Currency Formatter](https://github.com/elmoamedeo/hackerrank/blob/main/Java/CurrencyFormatter.java)
+
+#### Introduction
+- [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/IfElse.java)
+- [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StdinAndStdoutI.java)
+- [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StdinAndStdoutII.java)
+- [Loops I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/LoopsI.java)
+- [Loops II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/LoopsII.java)
+- [Output Formatting](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/OutputFormatting.java)
+- [Datatypes](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/Datatypes.java)
+- [Int to String](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/IntToString.java)
+- [Date and Time](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/DateAndTime.java)
+- [Welcome to Java](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/WelcomeToJava.java)
+- [End of File](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/EndOfFile.java)
+- [Static Initializer Block](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StaticInitializerBlock.java)
+- [Currency Formatter](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/CurrencyFormatter.java)
 
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

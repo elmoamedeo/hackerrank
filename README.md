@@ -10,7 +10,7 @@ HackerRank is a place where programmers from all over the world come together to
 
 ### Java
 
-#### Introduction
+- ### Introduction
 - [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/IfElse.java)
 - [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StdinAndStdoutI.java)
 - [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StdinAndStdoutII.java)
@@ -24,6 +24,9 @@ HackerRank is a place where programmers from all over the world come together to
 - [End of File](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/EndOfFile.java)
 - [Static Initializer Block](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StaticInitializerBlock.java)
 - [Currency Formatter](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/CurrencyFormatter.java)
+
+- ### Basic
+- [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/IfElse.java)
 
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

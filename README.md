@@ -20,6 +20,7 @@ HackerRank is a place where programmers from all over the world come together to
 - [Date and Time](https://github.com/elmoamedeo/hackerrank/blob/main/Java/DateAndTime.java)
 - [Welcome to Java](https://github.com/elmoamedeo/hackerrank/blob/main/Java/WelcomeToJava.java)
 - [End of File](https://github.com/elmoamedeo/hackerrank/blob/main/Java/EndOfFile.java)
+- [Static Initializer Block](https://github.com/elmoamedeo/hackerrank/blob/main/Java/StaticInitializerBlock.java)
 
 ### Easy
 - [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

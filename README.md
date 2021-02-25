@@ -10,31 +10,31 @@ HackerRank is a place where programmers from all over the world come together to
 
 ### Java
 
-- ### Introduction
-- [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/IfElse.java)
-- [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StdinAndStdoutI.java)
-- [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StdinAndStdoutII.java)
-- [Loops I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/LoopsI.java)
-- [Loops II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/LoopsII.java)
-- [Output Formatting](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/OutputFormatting.java)
-- [Datatypes](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/Datatypes.java)
-- [Int to String](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/IntToString.java)
-- [Date and Time](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/DateAndTime.java)
-- [Welcome to Java](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/WelcomeToJava.java)
-- [End of File](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/EndOfFile.java)
-- [Static Initializer Block](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StaticInitializerBlock.java)
-- [Currency Formatter](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/CurrencyFormatter.java)
+* ### Introduction
+    * [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/IfElse.java)
+    * [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StdinAndStdoutI.java)
+    * [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StdinAndStdoutII.java)
+    * [Loops I](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/LoopsI.java)
+    * [Loops II](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/LoopsII.java)
+    * [Output Formatting](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/OutputFormatting.java)
+    * [Datatypes](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/Datatypes.java)
+    * [Int to String](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/IntToString.java)
+    * [Date and Time](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/DateAndTime.java)
+    * [Welcome to Java](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/WelcomeToJava.java)
+    * [End of File](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/EndOfFile.java)
+    * [Static Initializer Block](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/StaticInitializerBlock.java)
+    * [Currency Formatter](https://github.com/elmoamedeo/hackerrank/blob/main/Java/introduction/CurrencyFormatter.java)
 
-- ### Basic
-- [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/StringsIntroduction.java)
+* ### Basic
+    * [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/StringsIntroduction.java)
 
 ### Easy
-- [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)
-- [Simple Array Sum](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SimpleArraySum.java)
-- [Compare The Triplets](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/CompareTheTriplets.java)
-- [A Very Big Sum](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/AVeryBigSum.java)
-- [Diagonal Difference](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/DiagonalDifference.java)
-- [Staircase](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/Staircase.java)
+* [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)
+* [Simple Array Sum](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SimpleArraySum.java)
+* [Compare The Triplets](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/CompareTheTriplets.java)
+* [A Very Big Sum](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/AVeryBigSum.java)
+* [Diagonal Difference](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/DiagonalDifference.java)
+* [Staircase](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/Staircase.java)
 
 ### Medium
 

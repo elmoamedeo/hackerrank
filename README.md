@@ -27,6 +27,7 @@ HackerRank is a place where programmers from all over the world come together to
 
 * ### Basic
     * [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/StringsIntroduction.java)
+    * [Substring](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/Substring.java)
 
 ### Easy
 * [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

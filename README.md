@@ -30,6 +30,7 @@ HackerRank is a place where programmers from all over the world come together to
     * [Substring](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/Substring.java)
     * [Substring Comparisons](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/SubstringComparisons.java)
     * [Substring Comparisons (TreeSet Solution)](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/SubstringComparisonsTreeSet.java)
+    * [String Reverse](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/StringReverse.java)
 
 ### Easy
 * [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

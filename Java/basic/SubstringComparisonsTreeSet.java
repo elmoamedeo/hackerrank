@@ -22,7 +22,7 @@ public class SubstringComparisonsTreeSet {
 
         SortedSet<String> sets = new TreeSet<>();
 
-        for(int i=0; i<= s.length()-k; i++){
+        for (int i=0; i<= s.length()-k; i++){
             sets.add(s.substring(i, i+k));
         }
 

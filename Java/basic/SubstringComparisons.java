@@ -1,8 +1,6 @@
 package Java.basic;
 
 import java.util.Scanner;
-import java.util.SortedSet;
-import java.util.TreeSet;
 
 public class SubstringComparisons {
 
@@ -21,7 +19,7 @@ public class SubstringComparisons {
 
         java.util.List<String> arrayList = new java.util.ArrayList<>();
 
-        for(int i = 0; i < s.length() - k + 1; i++) {
+        for (int i = 0; i < s.length() - k + 1; i++) {
             arrayList.add(s.substring(i, i + k));
         }
 

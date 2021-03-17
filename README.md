@@ -28,6 +28,8 @@ HackerRank is a place where programmers from all over the world come together to
 * ### Basic
     * [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/StringsIntroduction.java)
     * [Substring](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/Substring.java)
+    * [Substring Comparisons](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/SubstringComparisons.java)
+    * [Substring Comparisons (TreeSet Solution)](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/SubstringComparisonsTreeSet.java)
 
 ### Easy
 * [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

@@ -45,3 +45,6 @@ HackerRank is a place where programmers from all over the world come together to
 ### Medium
 
 ### Hard
+
+### Extra
+* [Generated Numbers](https://github.com/elmoamedeo/hackerrank/blob/main/Extra/GeneratedNumbers.java)

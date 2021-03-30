@@ -38,6 +38,7 @@ HackerRank is a place where programmers from all over the world come together to
   
 * ### Medium
     * [Regex](https://github.com/elmoamedeo/hackerrank/blob/main/Java/medium/Regex.java)
+    * [Regex 2 - Duplicate Words](https://github.com/elmoamedeo/hackerrank/blob/main/Java/medium/Regex.java)
 
 ### Easy
 * [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

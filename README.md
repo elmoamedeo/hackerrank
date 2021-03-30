@@ -57,4 +57,4 @@ HackerRank is a place where programmers from all over the world come together to
     * [Regex 2 - Duplicate Words](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex.java)
 
 ### Extra
-* [Generated Numbers](https://github.com/elmoamedeo/hackerrank/blob/main/Extra/GeneratedNumbers.java)
+* [Generated Numbers](https://github.com/elmoamedeo/hackerrank/blob/main/extra/GeneratedNumbers.java)

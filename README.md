@@ -43,6 +43,7 @@ HackerRank is a place where programmers from all over the world come together to
 * [Staircase](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/Staircase.java)
 
 ### Medium
+* [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/Medium/FormingAMagicSquare.java)
 
 ### Hard
 

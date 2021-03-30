@@ -33,6 +33,7 @@ HackerRank is a place where programmers from all over the world come together to
     * [String Reverse](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/StringReverse.java)
     * [Anagrams](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/Anagrams.java)
     * [Anagrams (Map and Verifications)](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/AnagramsWithMapAndVerifications.java)
+    * [String Tokens](https://github.com/elmoamedeo/hackerrank/blob/main/Java/basic/StringTokens.java)
 
 ### Easy
 * [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/Easy/SolveMeFirst.java)

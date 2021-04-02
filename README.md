@@ -18,6 +18,7 @@ HackerRank is a place where programmers from all over the world come together to
   * [Diagonal Difference](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/DiagonalDifference.java)
   * [Staircase](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/Staircase.java)
   * [Plus Minus](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/PlusMinus.java)
+  * [Min-Max Sum](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/MiniMaxSum.java)
 
 * ### Medium
   * [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java)

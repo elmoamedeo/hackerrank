@@ -19,6 +19,7 @@ HackerRank is a place where programmers from all over the world come together to
   * [Staircase](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/Staircase.java)
   * [Plus Minus](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/PlusMinus.java)
   * [Min-Max Sum](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/MiniMaxSum.java)
+  * [Birthday Cake Candles](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/BirthdayCakeCandles.java)
 
 * ### Medium
   * [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java)

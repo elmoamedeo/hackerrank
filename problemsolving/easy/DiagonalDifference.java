@@ -26,7 +26,7 @@ public class DiagonalDifference {
     }
 }
 
-class Solution {
+class SolutionDiagonalDifference {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));

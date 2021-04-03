@@ -1,4 +1,15 @@
-# Hackerrank Solution
+[CopyrightLicense]:./license.md
+<p align="center">
+	<a href="https://www.hackerrank.com/ryanfehr18"><img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" ></a>
+</p>
+<p align="center">
+	Check out HackerRank's new format <a href="./README_V2.md">here</a>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/Problems%20Solved-36-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-04/02/2021-blue.svg">
+</p>
 
 ## What is Hackerrank
 HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning & artificial intelligence. As well as to practice different programming paradigms like functional programming.

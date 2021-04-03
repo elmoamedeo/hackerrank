@@ -47,6 +47,8 @@ HackerRank is a place where programmers from all over the world come together to
     * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ClimbingTheLeaderboard.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/questions/ClimbingTheLeaderboard.pdf)
   * Extra Long Factorials
     * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ExtraLongFactorials.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/questions/ExtraLongFactorials.pdf)
+  * Non-Divisible Subset
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/NonDivisibleSubset.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/questions/NonDivisibleSubset.pdf)
 
 * #### :confounded: Hard
   * Requirement

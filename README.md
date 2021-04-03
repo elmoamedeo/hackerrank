@@ -13,7 +13,7 @@ HackerRank is a place where programmers from all over the world come together to
 
 #### My profile: https://www.hackerrank.com/elmoamedeo
 
-## Categories
+## :closed_book: Categories
 #### (The order of the exercises between the categories are by no means difficulty-wise, and yes by date of conclusion) 
 
 ### Problem Solving

@@ -41,13 +41,18 @@ HackerRank is a place where programmers from all over the world come together to
     * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/TimeConversion.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/TimeConversion.pdf)
 
 * #### :sweat_smile: Medium
-  * [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java)
-  * [Climbing The Leaderboard](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ClimbingTheLeaderboard.java)
-  * [Extra Long Factorials](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ExtraLongFactorials.java)
+  * Forming a Magic Square
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/questions/FormingAMagicSquare.pdf)
+  * Climbing The Leaderboard
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ClimbingTheLeaderboard.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/questions/ClimbingTheLeaderboard.pdf)
+  * Extra Long Factorials
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ExtraLongFactorials.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/questions/ExtraLongFactorials.pdf)
 
 * #### :confounded: Hard
-  * [Requirement](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/Requirement.java)
-  * [Requirement (Different Approach)](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/RequirementDifferentApproach.java)
+  * Requirement
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/Requirement.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/questions/Requirement.pdf)
+  * Requirement (Different Approach)
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/RequirementDifferentApproach.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/questions/Requirement.pdf)
 
 ### :hotsprings: Java
 

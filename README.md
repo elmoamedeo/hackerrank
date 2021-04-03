@@ -85,19 +85,30 @@ HackerRank is a place where programmers from all over the world come together to
       * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/CurrencyFormatter.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/CurrencyFormatter.pdf)
 
 * #### :wink: Basic
-    * [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringsIntroduction.java)
-    * [Substring](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/Substring.java)
-    * [Substring Comparisons](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/SubstringComparisons.java)
-    * [Substring Comparisons (TreeSet Solution)](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/SubstringComparisonsTreeSet.java)
-    * [String Reverse](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringReverse.java)
-    * [Anagrams](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/Anagrams.java)
-    * [Anagrams (Map and Verifications)](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/AnagramsWithMapAndVerifications.java)
-    * [String Tokens](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringTokens.java)
-    * [Pattern Syntax Checker](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/PatternSyntaxChecker.java)
+    * Strings Introduction
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringsIntroduction.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/StringsIntroduction.pdf)
+    * Substring
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/Substring.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/Substring.pdf)
+    * Substring Comparisons
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/SubstringComparisons.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/SubstringComparisons.pdf)
+    * Substring Comparisons (TreeSet Solution)
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/SubstringComparisonsTreeSet.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/SubstringComparisons.pdf)
+    * String Reverse
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringReverse.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/StringReverse.pdf)
+    * Anagrams
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/Anagrams.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/Anagrams.pdf)
+    * Anagrams (Map and Verifications)
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/AnagramsWithMapAndVerifications.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/Anagrams.pdf)
+    * String Tokens
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringTokens.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/StringTokens.pdf)
+    * Pattern Syntax Checker
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/PatternSyntaxChecker.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/questions/PatternSyntaxChecker.pdf)
   
 * #### :sweat_smile: Medium
-    * [Regex](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex.java)
-    * [Regex 2 - Duplicate Words](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex.java)
+    * Regex
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/questions/Regex.pdf)
+    * Regex 2 - Duplicate Words
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex2DuplicateWords.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/questions/Regex2DuplicateWords.pdf)
 
 ### :sweat_drops: Extra
 * [Generated Numbers](https://github.com/elmoamedeo/hackerrank/blob/main/extra/GeneratedNumbers.java)

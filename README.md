@@ -34,8 +34,8 @@ HackerRank is a place where programmers from all over the world come together to
   * [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java)
 
 * ### Hard
-  * [Requirement](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/Requirement.java)
-  * [Requirement (Different Approach)](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/RequirementDifferentApproach.java)
+  * [Requirement](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/Requirement.java)
+  * [Requirement (Different Approach)](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/RequirementDifferentApproach.java)
 
 ### Java
 

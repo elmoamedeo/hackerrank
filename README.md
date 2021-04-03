@@ -5,7 +5,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-41-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-04/02/2021-blue.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-04/03/2021-blue.svg">
 </p>
 
 ## :grey_question: What is HackerRank
@@ -42,19 +42,32 @@ HackerRank is a place where programmers from all over the world come together to
 ### :hotsprings: Java
 
 * ### :sleeping: Introduction
-    * [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/IfElse.java)
-    * [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StdinAndStdoutI.java)
-    * [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StdinAndStdoutII.java)
-    * [Loops I](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/LoopsI.java)
-    * [Loops II](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/LoopsII.java)
-    * [Output Formatting](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/OutputFormatting.java)
-    * [Datatypes](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/Datatypes.java)
-    * [Int to String](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/IntToString.java)
-    * [Date and Time](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/DateAndTime.java)
-    * [Welcome to java](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/WelcomeToJava.java)
-    * [End of File](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/EndOfFile.java)
-    * [Static Initializer Block](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StaticInitializerBlock.java)
-    * [Currency Formatter](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/CurrencyFormatter.java)
+    * If-Else
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/IfElse.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/IfElse.pdf)
+    * Stdin And Stdout I
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StdinAndStdoutI.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/StdinAndStdoutI.pdf)
+    * Stdin And Stdout II
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StdinAndStdoutII.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/StdinAndStdoutII.pdf)
+    * Loops I
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/LoopsI.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/LoopsI.pdf)
+    * Loops II
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/LoopsII.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/LoopsII.pdf)
+    * Output Formatting
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/OutputFormatting.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/OutputFormatting.pdf)
+    * Datatypes
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/Datatypes.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/Datatypes.pdf)
+    * Int to String
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/IntToString.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/IntToString.pdf)
+    * Date and Time
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/DateAndTime.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/DateAndTime.pdf)
+    * Welcome to Java
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/WelcomeToJava.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/WelcomeToJava.pdf)
+    * End of File
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/EndOfFile.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/EndOfFile.pdf)
+    * Static Initializer Block
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StaticInitializerBlock.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/StaticInitializerBlock.pdf)
+    * Currency Formatter
+      * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/CurrencyFormatter.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/CurrencyFormatter.pdf)
 
 * ### :wink: Basic
     * [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringsIntroduction.java)

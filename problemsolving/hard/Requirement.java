@@ -41,7 +41,7 @@ public class Requirement {
 
             if (a[a.length - 1] == 0) {
                 int sum = 0;
-                for(int x : a) sum += x;
+                for (int x : a) sum += x;
                 finished = sum == 0;
             }
         }

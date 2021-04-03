@@ -46,7 +46,7 @@ public class RequirementDifferentApproach {
 
     static private int[] calcFK(int[] vals, int k) {
         int[] ans = new int[n-k];
-        for(int i = 0;i < n-k;i++) {
+        for(int i = 0; i < n-k; i++) {
             ans[i] = 9;
         }
         for (int i = 0; i < k; i++) {
@@ -92,7 +92,7 @@ public class RequirementDifferentApproach {
             nodes[to].adjTGL.add(from);
         }
         process(nodes);
-        return  calcR(new int[n], 0);
+        return calcR(new int[n], 0);
     }
 
     static LinkedList<Set<Node>> listSCC = new LinkedList<>();
@@ -106,7 +106,7 @@ public class RequirementDifferentApproach {
         tSL = new LinkedList<>();
         for (int i = 0; i < n; i++) {
             Node node = tSL2.get(i);
-            if(node.color == 0) {
+            if (node.color == 0) {
                 Set<Node> set = new HashSet<>();
                 set.add(node);
                 DFS_VISIT(set, nodes, node, true);
@@ -164,7 +164,7 @@ public class RequirementDifferentApproach {
         List<Integer> adL = transposeG ? u.adjTGL : u.adjL;
         for (int adjN : adL) {
             Node v = nodes[adjN];
-            if(v.color == 0) {
+            if (v.color == 0) {
                 set.add(v);
                 DFS_VISIT(set, nodes, v, transposeG);
             }

@@ -18,7 +18,7 @@ HackerRank is a place where programmers from all over the world come together to
 
 ### :computer: Problem Solving
 
-* ### :wink: Easy
+* #### :wink: Easy
   * [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/SolveMeFirst.java)
   * [Simple Array Sum](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/SimpleArraySum.java)
   * [Compare The Triplets](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/CompareTheTriplets.java)
@@ -30,18 +30,18 @@ HackerRank is a place where programmers from all over the world come together to
   * [Birthday Cake Candles](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/BirthdayCakeCandles.java)
   * [Time Conversion](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/TimeConversion.java)
 
-* ### :sweat_smile: Medium
+* #### :sweat_smile: Medium
   * [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java)
   * [Climbing The Leaderboard](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ClimbingTheLeaderboard.java)
   * [Extra Long Factorials](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ExtraLongFactorials.java)
 
-* ### :confounded: Hard
+* #### :confounded: Hard
   * [Requirement](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/Requirement.java)
   * [Requirement (Different Approach)](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/RequirementDifferentApproach.java)
 
 ### :hotsprings: Java
 
-* ### :sleeping: Introduction
+* #### :sleeping: Introduction
     * If-Else
       * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/IfElse.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/IfElse.pdf)
     * Stdin And Stdout I
@@ -69,7 +69,7 @@ HackerRank is a place where programmers from all over the world come together to
     * Currency Formatter
       * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/CurrencyFormatter.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/questions/CurrencyFormatter.pdf)
 
-* ### :wink: Basic
+* #### :wink: Basic
     * [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringsIntroduction.java)
     * [Substring](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/Substring.java)
     * [Substring Comparisons](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/SubstringComparisons.java)
@@ -80,7 +80,7 @@ HackerRank is a place where programmers from all over the world come together to
     * [String Tokens](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringTokens.java)
     * [Pattern Syntax Checker](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/PatternSyntaxChecker.java)
   
-* ### :sweat_smile: Medium
+* #### :sweat_smile: Medium
     * [Regex](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex.java)
     * [Regex 2 - Duplicate Words](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex.java)
 

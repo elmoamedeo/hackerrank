@@ -3,7 +3,7 @@
 	<img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" >
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-36-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-37-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-04/02/2021-blue.svg">
 </p>
@@ -28,6 +28,7 @@ HackerRank is a place where programmers from all over the world come together to
   * [Plus Minus](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/PlusMinus.java)
   * [Min-Max Sum](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/MiniMaxSum.java)
   * [Birthday Cake Candles](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/BirthdayCakeCandles.java)
+  * [Time Conversion](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/TimeConversion.java)
 
 * ### Medium
   * [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java)

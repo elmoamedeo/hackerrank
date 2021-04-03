@@ -8,17 +8,17 @@
 	<img src="https://img.shields.io/badge/Latest%20Update-04/02/2021-blue.svg">
 </p>
 
-## What is Hackerrank
+## :grey_question: What is HackerRank
 HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning & artificial intelligence. As well as to practice different programming paradigms like functional programming.
 
 #### My profile: https://www.hackerrank.com/elmoamedeo
 
 ## :closed_book: Categories
-#### (The order of the exercises between the categories are by no means difficulty-wise, and yes by date of conclusion) 
+#### :round_pushpin: The order of the exercises between the categories are by no means difficulty-wise, and yes by date of conclusion
 
-### Problem Solving
+### :computer: Problem Solving
 
-* ### Easy
+* ### :wink: Easy
   * [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/SolveMeFirst.java)
   * [Simple Array Sum](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/SimpleArraySum.java)
   * [Compare The Triplets](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/CompareTheTriplets.java)
@@ -30,18 +30,18 @@ HackerRank is a place where programmers from all over the world come together to
   * [Birthday Cake Candles](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/BirthdayCakeCandles.java)
   * [Time Conversion](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/TimeConversion.java)
 
-* ### Medium
+* ### :sweat_smile: Medium
   * [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java)
   * [Climbing The Leaderboard](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ClimbingTheLeaderboard.java)
   * [Extra Long Factorials](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/ExtraLongFactorials.java)
 
-* ### Hard
+* ### :confounded: Hard
   * [Requirement](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/Requirement.java)
   * [Requirement (Different Approach)](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/hard/RequirementDifferentApproach.java)
 
-### Java
+### :hotsprings: Java
 
-* ### Introduction
+* ### :sleeping: Introduction
     * [If-Else](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/IfElse.java)
     * [Stdin And Stdout I](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StdinAndStdoutI.java)
     * [Stdin And Stdout II](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StdinAndStdoutII.java)
@@ -56,7 +56,7 @@ HackerRank is a place where programmers from all over the world come together to
     * [Static Initializer Block](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/StaticInitializerBlock.java)
     * [Currency Formatter](https://github.com/elmoamedeo/hackerrank/blob/main/java/introduction/CurrencyFormatter.java)
 
-* ### Basic
+* ### :wink: Basic
     * [Strings Introduction](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringsIntroduction.java)
     * [Substring](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/Substring.java)
     * [Substring Comparisons](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/SubstringComparisons.java)
@@ -67,10 +67,10 @@ HackerRank is a place where programmers from all over the world come together to
     * [String Tokens](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/StringTokens.java)
     * [Pattern Syntax Checker](https://github.com/elmoamedeo/hackerrank/blob/main/java/basic/PatternSyntaxChecker.java)
   
-* ### Medium
+* ### :sweat_smile: Medium
     * [Regex](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex.java)
     * [Regex 2 - Duplicate Words](https://github.com/elmoamedeo/hackerrank/blob/main/java/medium/Regex.java)
 
-### Extra
+### :sweat_drops: Extra
 * [Generated Numbers](https://github.com/elmoamedeo/hackerrank/blob/main/extra/GeneratedNumbers.java)
 * [String Reverse](https://github.com/elmoamedeo/hackerrank/blob/main/extra/StringReverse.java)

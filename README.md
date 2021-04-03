@@ -19,16 +19,26 @@ HackerRank is a place where programmers from all over the world come together to
 ### :computer: Problem Solving
 
 * #### :wink: Easy
-  * [Solve Me First](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/SolveMeFirst.java)
-  * [Simple Array Sum](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/SimpleArraySum.java)
-  * [Compare The Triplets](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/CompareTheTriplets.java)
-  * [A Very Big Sum](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/AVeryBigSum.java)
-  * [Diagonal Difference](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/DiagonalDifference.java)
-  * [Staircase](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/Staircase.java)
-  * [Plus Minus](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/PlusMinus.java)
-  * [Min-Max Sum](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/MiniMaxSum.java)
-  * [Birthday Cake Candles](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/BirthdayCakeCandles.java)
-  * [Time Conversion](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/TimeConversion.java)
+  * Solve Me First
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/SolveMeFirst.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/SolveMeFirst.pdf)
+  * Simple Array Sum
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/SimpleArraySum.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/SimpleArraySum.pdf)
+  * Compare The Triplets
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/CompareTheTriplets.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/CompareTheTriplets.pdf)
+  * A Very Big Sum
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/AVeryBigSum.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/AVeryBigSum.pdf)
+  * Diagonal Difference
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/DiagonalDifference.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/DiagonalDifference.pdf)
+  * Staircase
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/Staircase.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/Staircase.pdf)
+  * Plus Minus
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/PlusMinus.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/PlusMinus.pdf)
+  * Min-Max Sum
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/MiniMaxSum.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/MiniMaxSum.pdf)
+  * Birthday Cake Candles
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/BirthdayCakeCandles.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/BirthdayCakeCandles.pdf)
+  * Time Conversion
+    * [Code](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/TimeConversion.java) / [Problem](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/easy/questions/TimeConversion.pdf)
 
 * #### :sweat_smile: Medium
   * [Forming a Magic Square](https://github.com/elmoamedeo/hackerrank/blob/main/problemsolving/medium/FormingAMagicSquare.java)

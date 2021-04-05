@@ -5,7 +5,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-42-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-04/03/2021-blue.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-04/05/2021-blue.svg">
 </p>
 
 ## :grey_question: What is HackerRank

@@ -3,9 +3,9 @@
 	<img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" >
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-42-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-43-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-04/05/2021-blue.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-04/06/2021-blue.svg">
 </p>
 
 ## :grey_question: What is HackerRank
@@ -115,3 +115,4 @@ HackerRank is a place where programmers from all over the world come together to
 ### :sweat_drops: Extra
 * [Generated Numbers](https://github.com/elmoamedeo/hackerrank/blob/main/extra/GeneratedNumbers.java)
 * [String Reverse](https://github.com/elmoamedeo/hackerrank/blob/main/extra/StringReverse.java)
+* [Find Biggest Subsequent String](https://github.com/elmoamedeo/hackerrank/blob/main/extra/FindBiggestSubsequentString.java)

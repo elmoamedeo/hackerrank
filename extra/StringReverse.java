@@ -4,14 +4,10 @@ import java.util.Scanner;
 
 public class StringReverse {
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        String s = scanner.next();
-        System.out.println(stringReverseLazyWay(s));
-        System.out.println(stringReverseRootsWay(s));
-        scanner.close();
-    }
-
+    /*
+        Given an string X, solve the method so that it returns X but reversed.
+        Example: in(Hello) out(olleH).
+     */
     static String stringReverseLazyWay(String s) {
         return new StringBuilder(s).reverse().toString();
     }
@@ -29,5 +25,13 @@ public class StringReverse {
             start++;
         }
         return new String(input);
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String s = scanner.next();
+        System.out.println(stringReverseLazyWay(s));
+        System.out.println(stringReverseRootsWay(s));
+        scanner.close();
     }
 }

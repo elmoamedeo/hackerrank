@@ -8,11 +8,11 @@ public class GeneratedNumbers {
 
     /*
         Method must return a list of integers, containing the following rules:
-        - Number of digits has to respect "numberSize"
-        - Largest digit should be less than "maxDigit"
-        - Sum of the number digits of every value in array should be "sumOfNumber"
-        - You do not need to consider an invalid number, eg "00032"
-        - If no number is possible, the return must be an empty list
+        - Number of digits has to respect "numberSize";
+        - Largest digit should be less than "maxDigit";
+        - Sum of the number digits of every value in array should be "sumOfNumber";
+        - You do not need to consider an invalid number, eg "00032";
+        - If no number is possible, the return must be an empty list.
      */
     static List<Integer> generateIntListWithMaxNumber(int maxDigit, int numberSize, int sumOfDigits) {
         List<Integer> integerList = new ArrayList<>();
@@ -62,5 +62,4 @@ public class GeneratedNumbers {
         System.out.println(generateIntListWithMaxNumber(maxDigit, numberSize, sumOfDigits));
         scan.close();
     }
-
 }

@@ -9,7 +9,7 @@
 </p>
 
 ## :grey_question: What is HackerRank
-HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning & artificial intelligence. As well as to practice different programming paradigms like functional programming.
+HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. HackerRank helps companies hire skilled developers and innovate faster by enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process.
 
 #### My profile: https://www.hackerrank.com/elmoamedeo
 
